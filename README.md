@@ -1,5 +1,5 @@
 # hello-world
-My first resposity
+My first respository
 
 What do you want to de?
 
